@@ -23,6 +23,17 @@
 .w-800 {
     max-width: 800px;
 }
+.bord {
+    border: 2px solid black;
+}
+
+img {
+    width: 100%;
+}
+
+.d-float {
+float: right;
+}
 
 @media only screen and (max-width: 480px) {
     /* insert styles here */
